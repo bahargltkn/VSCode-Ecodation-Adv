@@ -1,0 +1,1 @@
+print('Haftanın 1. günü\t="Pazartesi"\nHaftanın 2. günü\t="Salı"\nHaftanın 3. günü\t="Çarşamba"\nHaftanın 4. günü\t="Perşembe"\nHaftanın 5. günü\t="Cuma"\nHaftanın 6. günü\t="Cumartesi"\nHaftanın 7. günü\t="Pazar"')
